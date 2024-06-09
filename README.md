@@ -1,4 +1,4 @@
 # Terraform
 
-Reposifory containing templates for creating resources using terraform
+Repository containing templates for creating resources using terraform
 
